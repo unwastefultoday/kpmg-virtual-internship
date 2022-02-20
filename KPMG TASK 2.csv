@@ -1,0 +1,955 @@
+first_name,last_name,gender,past_3_years_bike_related_purchases,job_industry_category,wealth_segment,deceased_indicator,owns_car,tenure,state,age,age range
+Chickie,Brister,Male,86,Manufacturing,Mass Customer,N,1,14,QLD,65,60+
+Morly,Genery,Male,69,Property,Mass Customer,N,0,16,NSW,52,50-59
+Ardelis,Forrester,Female,10,Financial Services,Affluent Customer,N,0,10,VIC,48,40-49
+Lucine,Stutt,Female,64,Manufacturing,Affluent Customer,N,1,5,QLD,43,40-49
+Melinda,Hadlee,Female,34,Financial Services,Affluent Customer,N,0,19,NSW,57,50-59
+Druci,Brandli,Female,39,Entertainment,High Net Worth,N,1,22,QLD,71,60+
+Rutledge,Hallt,Male,23,Financial Services,Mass Customer,N,0,8,NSW,46,40-49
+Nancie,Vian,Female,74,Retail,Mass Customer,N,1,10,QLD,50,50-59
+Duff,Karlowicz,Male,50,Manufacturing,Mass Customer,N,1,5,NSW,50,50-59
+Barthel,Docket,Male,72,IT,Mass Customer,N,1,17,QLD,37,30-39
+Rockwell,Matson,Male,94,Retail,High Net Worth,N,0,3,QLD,27,<30
+Wheeler,Winward,Male,48,Manufacturing,Mass Customer,N,0,10,VIC,23,<30
+Melba,Spellacy,Female,38,Health,Mass Customer,N,0,4,NSW,46,40-49
+Mandie,Feares,Female,32,Health,Mass Customer,N,0,10,QLD,58,50-59
+Dukie,Swire,Male,88,Manufacturing,Affluent Customer,N,1,5,NSW,68,60+
+Marcelia,Monkleigh,Female,61,Manufacturing,Mass Customer,N,1,4,QLD,29,<30
+Winnifred,Beswetherick,Female,83,Financial Services,Mass Customer,N,0,14,VIC,46,40-49
+Odilia,Quick,Female,65,Manufacturing,Affluent Customer,N,1,11,NSW,84,60+
+Karly,Willavize,Female,2,Manufacturing,High Net Worth,N,0,12,NSW,68,60+
+Teddie,Burchill,Male,11,Manufacturing,Mass Customer,N,1,13,NSW,54,50-59
+Gaston,Dallaghan,Male,44,Financial Services,Mass Customer,N,1,8,NSW,29,<30
+Otis,Ottey,Male,26,Unknown,Mass Customer,N,0,3,QLD,24,<30
+Tabbatha,Averill,Female,5,Unknown,Affluent Customer,N,1,13,NSW,45,40-49
+Brena,Schnitter,Female,78,Manufacturing,Mass Customer,N,0,4,QLD,40,40-49
+Rourke,Gillbard,Male,11,Property,Mass Customer,N,0,17,QLD,77,60+
+Dyane,Burwell,Female,19,Retail,Mass Customer,N,1,7,NSW,70,60+
+Claudine,Barstowk,Female,71,Property,High Net Worth,N,1,5,QLD,56,50-59
+Blinnie,Roze,Female,84,Entertainment,High Net Worth,N,0,11,QLD,62,60+
+Rhona,De Freyne,Female,45,Health,High Net Worth,N,0,8,VIC,62,60+
+Sharron,Claibourn,Female,62,Financial Services,High Net Worth,N,1,17,NSW,42,40-49
+Brien,Heaton,Male,70,Health,Mass Customer,N,1,12,NSW,71,60+
+Sybilla,MacCart,Female,88,Financial Services,Mass Customer,N,1,7,NSW,35,30-39
+Mikel,McNess,Male,71,Unknown,Mass Customer,N,0,9,QLD,41,40-49
+Maisie,Maddox,Female,27,Financial Services,Affluent Customer,N,0,20,VIC,45,40-49
+Arleen,Casbolt,Female,48,Financial Services,Affluent Customer,N,1,13,QLD,47,40-49
+Farlie,Petford,Male,76,Unknown,High Net Worth,N,0,13,NSW,54,50-59
+Mitchell,MacCague,Male,58,Manufacturing,Mass Customer,N,0,15,VIC,43,40-49
+Garik,Whitwell,Male,44,Property,Mass Customer,N,1,13,VIC,67,60+
+Antonin,Britt,Male,64,Manufacturing,Affluent Customer,N,1,8,NSW,29,<30
+Vinny,Incogna,Female,73,Health,High Net Worth,N,0,10,NSW,69,60+
+Colene,Fishleigh,Female,24,Financial Services,Mass Customer,N,0,3,VIC,37,30-39
+Neile,Argent,Female,79,Retail,Mass Customer,N,0,8,NSW,76,60+
+Corinna,Suggey,Female,52,Unknown,Affluent Customer,N,0,9,NSW,56,50-59
+Brooke,Arling,Male,76,Unknown,High Net Worth,N,0,6,VIC,61,60+
+Gipsy,Ewestace,Female,29,Retail,High Net Worth,N,1,5,NSW,66,60+
+Sheena,Kybbye,Female,14,Financial Services,Affluent Customer,N,1,19,QLD,66,60+
+Jobina,Gobourn,Female,85,Unknown,High Net Worth,N,1,14,QLD,28,<30
+Gale,Disbrow,Female,59,Financial Services,Mass Customer,N,1,17,VIC,45,40-49
+Thaxter,Kingsbury,Male,12,Argiculture,Mass Customer,N,0,20,NSW,72,60+
+Heinrick,Shilstone,Male,60,Manufacturing,Affluent Customer,N,0,10,VIC,44,40-49
+Taylor,Steuhlmeyer,Male,62,Financial Services,Affluent Customer,N,1,5,QLD,23,<30
+Griswold,Kelsall,Male,55,Health,High Net Worth,N,1,11,VIC,29,<30
+Odessa,Mc Andrew,Female,97,Property,Mass Customer,N,0,8,NSW,41,40-49
+Lavena,Seekings,Female,87,Retail,Mass Customer,N,0,16,VIC,27,<30
+Martelle,Tuppeny,Female,52,Manufacturing,Mass Customer,N,0,9,NSW,41,40-49
+Briant,Ladley,Male,75,Argiculture,Mass Customer,N,0,12,NSW,43,40-49
+Marylou,Kirkup,Female,51,Unknown,Mass Customer,N,0,14,VIC,50,50-59
+Lorrie,Antonelli,Male,47,Financial Services,High Net Worth,N,1,17,NSW,39,30-39
+Jedediah,Kedie,Male,31,Argiculture,Mass Customer,N,1,9,NSW,51,50-59
+Kaine,Smallcombe,Male,59,Financial Services,High Net Worth,N,0,11,NSW,80,60+
+Loise,Iltchev,Female,70,Manufacturing,High Net Worth,N,1,17,QLD,55,50-59
+Cristen,Maroney,Female,22,IT,High Net Worth,N,1,7,QLD,23,<30
+Dorothy,Barnardo,Female,58,Retail,High Net Worth,N,0,12,NSW,39,30-39
+Rosmunda,Duxbarry,Female,69,Property,Affluent Customer,N,1,5,QLD,26,<30
+Rozamond,Riha,Female,54,Manufacturing,Affluent Customer,N,1,16,QLD,38,30-39
+Gunner,Petti,Male,62,Financial Services,High Net Worth,N,1,3,QLD,23,<30
+Vivienne,Crayden,Female,82,Unknown,High Net Worth,N,1,6,QLD,34,30-39
+Sherilyn,Canero,Female,11,Health,High Net Worth,N,1,13,NSW,26,<30
+Bessie,Roscow,Female,78,Financial Services,Mass Customer,N,0,9,NSW,28,<30
+Kevina,Ferandez,Female,73,Financial Services,High Net Worth,N,0,15,QLD,23,<30
+Yancy,Clementet,Male,5,Unknown,High Net Worth,N,0,15,NSW,54,50-59
+Mabelle,Wellbelove,Female,76,Financial Services,Affluent Customer,N,1,19,NSW,64,60+
+Hasheem,Groucock,Male,98,Manufacturing,High Net Worth,N,1,10,NSW,48,40-49
+Tobias,Woodhams,Male,0,Health,Mass Customer,N,0,17,NSW,61,60+
+Glennis,Flintoff,Female,36,Health,Affluent Customer,N,1,13,VIC,66,60+
+Chanda,Mensler,Female,15,Manufacturing,Mass Customer,N,1,13,NSW,50,50-59
+Katheryn,Kinner,Female,15,Entertainment,High Net Worth,N,0,6,NSW,49,40-49
+Sumner,Carrivick,Male,53,Manufacturing,Mass Customer,N,0,15,NSW,27,<30
+Valerie,Pickover,Female,34,Financial Services,Mass Customer,N,0,9,NSW,57,50-59
+Esther,Rooson,Female,14,Financial Services,Mass Customer,N,0,5,NSW,41,40-49
+Gardie,Crellim,Male,58,Manufacturing,High Net Worth,N,0,8,VIC,47,40-49
+Sean,O'Loughlin,Male,48,Manufacturing,High Net Worth,N,1,16,NSW,61,60+
+Pietra,Buckleigh,Female,9,Unknown,High Net Worth,N,0,13,NSW,73,60+
+Marysa,Rouchy,Female,8,Entertainment,Affluent Customer,N,0,5,NSW,23,<30
+Ossie,Midden,Male,49,Manufacturing,Mass Customer,N,1,14,NSW,72,60+
+Sid,Carlone,Male,24,Health,Affluent Customer,N,0,16,QLD,51,50-59
+Ludovico,Juster,Male,93,Unknown,Affluent Customer,N,0,15,NSW,30,30-39
+Patricia,Everix,Female,34,Health,Mass Customer,N,0,19,NSW,44,40-49
+Andromache,Bonafacino,Female,84,Retail,Mass Customer,N,0,11,NSW,45,40-49
+Levy,Abramamov,Male,94,Unknown,Affluent Customer,N,1,14,QLD,70,60+
+Nobe,McAughtry,Male,25,Unknown,Mass Customer,N,0,12,QLD,44,40-49
+Jehu,Prestedge,Male,91,Manufacturing,High Net Worth,N,1,8,NSW,23,<30
+Symon,Mawne,Male,18,Property,Mass Customer,N,1,15,VIC,79,60+
+Karlik,Penchen,Male,60,Retail,Mass Customer,N,0,11,QLD,28,<30
+Bengt,Bilson,Male,26,Manufacturing,High Net Worth,N,0,11,NSW,50,50-59
+Evangelin,Boc,Female,30,Manufacturing,High Net Worth,N,1,14,VIC,22,<30
+Hanny,Treven,Female,84,Retail,Mass Customer,N,0,3,QLD,31,30-39
+Gina,Mallon,Female,56,Health,Mass Customer,N,0,12,QLD,28,<30
+Reynold,Elman,Male,19,Manufacturing,Mass Customer,N,0,9,NSW,82,60+
+Flossy,Concannon,Female,64,Financial Services,Affluent Customer,N,0,8,VIC,42,40-49
+Cristen,Wiltshire,Female,59,Financial Services,High Net Worth,N,1,15,VIC,61,60+
+Griffith,Escot,Male,50,IT,Mass Customer,N,1,16,QLD,76,60+
+Jamie,Jiruca,Female,21,Argiculture,Mass Customer,N,0,18,NSW,59,50-59
+Lyon,Brittan,Male,14,Retail,High Net Worth,N,0,19,VIC,50,50-59
+Aridatha,Sephton,Female,95,Unknown,Mass Customer,N,0,5,NSW,61,60+
+Michal,Bryan,Female,1,Manufacturing,Mass Customer,N,1,16,QLD,53,50-59
+Franciska,Stigell,Female,95,Health,Mass Customer,N,1,7,VIC,54,50-59
+Jordan,Clampe,Male,37,Financial Services,Mass Customer,N,1,11,QLD,83,60+
+David,Napoleon,Male,72,Unknown,High Net Worth,N,0,14,NSW,61,60+
+Meriel,Tapp,Female,0,IT,Mass Customer,N,0,5,VIC,27,<30
+Dolley,Starmont,Female,53,Manufacturing,Affluent Customer,N,0,18,QLD,45,40-49
+Frederik,Milan,Male,45,Health,Mass Customer,N,0,5,NSW,25,<30
+Rollo,Louedey,Male,64,Telecommunications,Affluent Customer,N,1,17,NSW,76,60+
+Jerrine,Cosbey,Female,21,Financial Services,High Net Worth,N,1,6,VIC,44,40-49
+Roddy,Rubinshtein,Male,37,Retail,Mass Customer,N,1,4,QLD,35,30-39
+Viki,Coutts,Female,2,Property,Mass Customer,N,1,7,NSW,70,60+
+Ashby,Bispham,Male,71,Retail,Affluent Customer,N,0,4,NSW,41,40-49
+Alexander,Broadbent,Male,57,Unknown,Mass Customer,N,0,9,NSW,25,<30
+Teddy,Lagadu,Female,86,Unknown,High Net Worth,N,0,6,NSW,53,50-59
+Peria,Rantoull,Female,3,Financial Services,Mass Customer,N,0,4,QLD,47,40-49
+Ludvig,Andren,Male,44,Unknown,High Net Worth,N,1,15,QLD,81,60+
+Elsworth,Abbitt,Male,71,Health,Mass Customer,N,1,6,VIC,66,60+
+Rebeca,Aggas,Female,66,Health,Affluent Customer,N,0,21,VIC,69,60+
+Ricki,Dobrowski,Male,13,Manufacturing,Mass Customer,N,1,9,NSW,47,40-49
+Georgetta,Lovett,Female,42,Retail,Mass Customer,N,0,12,QLD,82,60+
+Bambi,Cogger,Female,51,Retail,Affluent Customer,N,1,5,NSW,32,30-39
+Aurie,Rhead,Female,78,Manufacturing,Affluent Customer,N,1,5,NSW,60,60+
+Farris,Skettles,Male,38,Unknown,Mass Customer,N,1,13,VIC,57,50-59
+Sharline,Abyss,Female,11,Unknown,Mass Customer,N,1,15,QLD,62,60+
+Nowell,Preddy,Male,29,Manufacturing,Mass Customer,N,0,9,NSW,37,30-39
+Lacy,Drance,Female,27,Manufacturing,Affluent Customer,N,1,14,NSW,44,40-49
+Padraig,Snel,Male,89,Unknown,Mass Customer,N,0,19,NSW,52,50-59
+Malorie,Votier,Female,90,Manufacturing,Affluent Customer,N,0,4,QLD,32,30-39
+Shepperd,Ricards,Male,28,Health,Mass Customer,N,1,16,NSW,55,50-59
+Daryl,Pauncefort,Female,12,Financial Services,Mass Customer,N,1,12,NSW,43,40-49
+Norina,Blakeway,Female,60,Property,Mass Customer,N,1,3,VIC,42,40-49
+My,Chaston,Male,92,Manufacturing,Affluent Customer,N,1,16,VIC,56,50-59
+Isak,Bergstram,Male,14,Health,Affluent Customer,N,1,15,NSW,21,<30
+Grannie,Cracker,Male,28,Retail,Mass Customer,N,1,20,QLD,73,60+
+Welby,Lourenco,Male,6,Financial Services,High Net Worth,N,1,17,NSW,47,40-49
+Glenn,Casbourne,Female,4,Manufacturing,Mass Customer,N,0,6,QLD,41,40-49
+Nadiya,Balasini,Female,40,Financial Services,Mass Customer,N,0,15,NSW,72,60+
+Tyne,Coate,Female,82,Manufacturing,Mass Customer,N,0,17,NSW,57,50-59
+Christie,Anders,Male,38,Retail,Mass Customer,N,0,16,NSW,53,50-59
+Agnella,Capener,Female,58,Health,High Net Worth,N,0,19,VIC,53,50-59
+Bernardine,Delmonti,Female,39,Property,Mass Customer,N,0,17,NSW,51,50-59
+Daisy,Spowart,Female,60,Health,Affluent Customer,N,1,4,QLD,55,50-59
+Denys,Minshall,Female,30,Manufacturing,Affluent Customer,N,1,14,NSW,61,60+
+Archibald,Blessed,Male,61,Financial Services,Mass Customer,N,1,18,NSW,53,50-59
+Feodor,Englishby,Male,54,Health,Mass Customer,N,0,11,VIC,61,60+
+Skippie,Yearsley,Male,6,Financial Services,Mass Customer,N,0,9,QLD,66,60+
+Tessa,Friese,Female,89,Financial Services,Mass Customer,N,0,21,QLD,46,40-49
+Roseanne,Caruth,Female,16,Health,Mass Customer,N,0,7,NSW,65,60+
+Tedra,Goodbanne,Female,4,Unknown,Mass Customer,N,1,6,VIC,44,40-49
+Roberto,Harme,Male,27,Unknown,High Net Worth,N,0,10,NSW,71,60+
+Nichole,Leisman,Male,37,Property,Affluent Customer,N,0,4,NSW,36,30-39
+Amil,Ennor,Female,23,Health,Mass Customer,N,1,10,VIC,27,<30
+Shawna,Hinrichsen,Female,60,Manufacturing,Affluent Customer,N,1,9,NSW,53,50-59
+Fonsie,Levane,Male,96,Unknown,High Net Worth,N,1,19,QLD,71,60+
+Emilie,Brody,Female,3,Unknown,Mass Customer,N,1,3,NSW,43,40-49
+Robert,Corkill,Male,55,Health,Mass Customer,N,0,4,NSW,46,40-49
+Elvira,Kurten,Female,65,Financial Services,High Net Worth,N,0,12,NSW,49,40-49
+Juliana,Mitchenson,Female,55,Manufacturing,Mass Customer,N,1,8,QLD,33,30-39
+Regine,Bownes,Female,99,Retail,Affluent Customer,N,0,15,VIC,70,60+
+Abner,Fraschetti,Male,33,Argiculture,Affluent Customer,N,0,13,VIC,36,30-39
+Alvira,Coulman,Female,42,Unknown,Affluent Customer,N,0,14,NSW,67,60+
+Sawyer,Sponton,Male,36,Property,Mass Customer,N,1,10,NSW,66,60+
+Feodor,Vickers,Male,60,Financial Services,Mass Customer,N,1,4,NSW,33,30-39
+Paten,Cayet,Male,56,Manufacturing,Affluent Customer,N,1,16,VIC,27,<30
+Loria,Tappington,Female,72,Property,Mass Customer,N,0,5,VIC,67,60+
+Tanya,Kiefer,Female,54,Telecommunications,High Net Worth,N,0,7,NSW,30,30-39
+Devonne,Alderwick,Female,79,Unknown,High Net Worth,N,1,9,VIC,83,60+
+Omero,McDonand,Male,51,Manufacturing,Mass Customer,N,0,16,NSW,70,60+
+Iain,Haversham,Male,92,Retail,Mass Customer,N,1,13,NSW,72,60+
+Keriann,Newham,Female,71,Financial Services,Mass Customer,N,0,5,QLD,47,40-49
+Conroy,Rappaport,Male,39,Health,High Net Worth,N,0,9,NSW,57,50-59
+Dorian,Rustman,Male,78,Manufacturing,Mass Customer,N,0,18,QLD,48,40-49
+Quillan,Guinane,Male,36,Unknown,High Net Worth,N,1,21,NSW,76,60+
+Harlin,Mazin,Male,34,Manufacturing,Mass Customer,N,1,13,NSW,48,40-49
+Eustacia,Dornan,Female,68,Property,Mass Customer,N,0,5,VIC,37,30-39
+Maury,Galego,Male,65,Health,High Net Worth,N,1,3,VIC,30,30-39
+Reggie,Kernar,Female,26,Financial Services,High Net Worth,N,0,17,NSW,51,50-59
+Brigitte,Whellams,Female,67,Unknown,Mass Customer,N,1,17,NSW,49,40-49
+Kinna,Kollasch,Female,7,Property,High Net Worth,N,0,9,QLD,36,30-39
+Maurizio,Comi,Male,74,IT,Affluent Customer,N,0,10,NSW,26,<30
+Elbertina,Fendley,Female,32,Property,Affluent Customer,N,0,8,NSW,30,30-39
+Franklin,Wohler,Male,55,Health,Mass Customer,N,1,7,NSW,84,60+
+Allyson,Petchell,Female,16,Telecommunications,High Net Worth,N,0,10,NSW,52,50-59
+Ermentrude,Heindle,Female,47,Argiculture,Mass Customer,N,0,7,NSW,53,50-59
+Alanna,Lerway,Female,26,Health,Mass Customer,N,1,11,VIC,78,60+
+Vincent,Jopke,Male,6,Property,Affluent Customer,N,0,16,VIC,50,50-59
+Mandie,Jeffryes,Female,60,Unknown,High Net Worth,N,0,7,QLD,41,40-49
+Collete,Dory,Female,66,Unknown,High Net Worth,N,0,2,NSW,32,30-39
+Leonid,Dorricott,Male,44,Unknown,Affluent Customer,N,0,3,NSW,29,<30
+Charlena,Berney,Female,55,Manufacturing,High Net Worth,N,1,12,QLD,56,50-59
+Alfonso,Massel,Male,70,Unknown,Mass Customer,N,1,13,VIC,82,60+
+Engracia,Dobbs,Female,84,Health,Mass Customer,N,0,15,NSW,63,60+
+Rosemonde,Cartwight,Female,44,Retail,Mass Customer,N,1,7,QLD,70,60+
+Alano,Satchel,Male,2,Unknown,Mass Customer,N,0,2,NSW,24,<30
+Corrine,Baribal,Female,19,Unknown,Affluent Customer,N,1,12,NSW,74,60+
+Benoit,Harniman,Male,31,Telecommunications,Affluent Customer,N,0,9,QLD,46,40-49
+Jeanne,Darte,Female,70,Unknown,Mass Customer,N,1,11,NSW,67,60+
+Jenelle,Fearnill,Female,12,Health,High Net Worth,N,0,19,NSW,64,60+
+Tannie,Gambrell,Male,92,Financial Services,Affluent Customer,N,0,4,QLD,55,50-59
+Mick,Macewan,Male,32,Financial Services,Mass Customer,N,0,16,NSW,55,50-59
+Abbie,Oldman,Male,82,Health,High Net Worth,N,1,5,NSW,39,30-39
+Tabbie,Curner,Male,12,Retail,Mass Customer,N,0,6,VIC,25,<30
+Shane,Killen,Male,28,Entertainment,High Net Worth,N,0,10,NSW,66,60+
+Roberta,Goodale,Female,9,Property,Mass Customer,N,1,22,QLD,75,60+
+Kippy,Barabisch,Male,11,Manufacturing,Mass Customer,N,0,4,NSW,22,<30
+Rosalinde,Cubuzzi,Female,50,Unknown,Mass Customer,N,0,5,NSW,25,<30
+Cami,Barnbrook,Female,8,Health,Affluent Customer,N,1,18,QLD,59,50-59
+Dorian,Stollen,Male,78,Financial Services,Mass Customer,N,1,18,NSW,42,40-49
+Hunfredo,Hayball,Male,7,IT,Affluent Customer,N,0,3,NSW,28,<30
+Giorgi,O'Shirine,Male,68,Retail,Mass Customer,N,1,15,VIC,41,40-49
+Kort,Disley,Male,66,Health,Mass Customer,N,1,7,NSW,43,40-49
+Gretna,Thredder,Female,62,Unknown,Mass Customer,N,0,18,NSW,56,50-59
+Tobiah,Heinsius,Male,66,Health,High Net Worth,N,0,9,NSW,22,<30
+Wallace,Newart,Male,91,IT,Mass Customer,N,0,17,QLD,45,40-49
+Hersh,Stubbert,Male,0,Manufacturing,Mass Customer,N,1,15,QLD,22,<30
+Wyn,Saynor,Male,54,Financial Services,High Net Worth,N,0,8,NSW,58,50-59
+Maribeth,Stivani,Female,46,Financial Services,Mass Customer,N,0,7,NSW,68,60+
+Abigale,Sives,Female,48,Health,Affluent Customer,N,1,14,QLD,59,50-59
+Gothart,Artus,Male,52,Health,Mass Customer,N,1,14,NSW,44,40-49
+Danny,Bodle,Male,50,Manufacturing,Mass Customer,N,1,18,NSW,79,60+
+Vittorio,Boxen,Male,94,Unknown,Mass Customer,N,0,14,NSW,57,50-59
+Deborah,Petrovsky,Female,53,Property,Mass Customer,N,0,16,NSW,79,60+
+Agace,Hedge,Female,25,Unknown,Mass Customer,N,1,13,VIC,25,<30
+Rolland,Esmead,Male,41,Health,Affluent Customer,N,0,8,NSW,82,60+
+Latrena,Walklate,Female,97,Telecommunications,High Net Worth,N,1,13,NSW,79,60+
+Mariquilla,Springthorpe,Female,30,Unknown,Mass Customer,N,1,8,NSW,83,60+
+Leticia,Danovich,Female,84,Entertainment,Mass Customer,N,1,15,QLD,81,60+
+Harman,Lynds,Male,4,Unknown,Mass Customer,N,1,5,QLD,61,60+
+Farra,Matyushkin,Female,18,Manufacturing,High Net Worth,N,1,9,VIC,48,40-49
+Robenia,Monks,Female,94,Manufacturing,Mass Customer,N,0,5,QLD,63,60+
+Roman,Eastwood,Male,57,Manufacturing,Affluent Customer,N,1,16,VIC,53,50-59
+Solomon,Bruck,Male,29,Health,Mass Customer,N,0,12,QLD,65,60+
+Krystyna,Airey,Female,2,Unknown,Mass Customer,N,1,19,QLD,72,60+
+Katharine,Redbourn,Female,8,Manufacturing,Affluent Customer,N,1,4,VIC,55,50-59
+Cammy,Stoneham,Female,74,Financial Services,High Net Worth,N,0,14,QLD,59,50-59
+Ellsworth,Andrieux,Male,49,Financial Services,Affluent Customer,N,1,10,QLD,51,50-59
+Federico,Leuty,Male,59,Property,High Net Worth,N,1,11,NSW,44,40-49
+Ferdy,Hornung,Male,57,Entertainment,High Net Worth,N,0,18,QLD,48,40-49
+Sunny,Christescu,Female,90,Financial Services,Mass Customer,N,0,11,NSW,47,40-49
+Shadow,Yakutin,Male,85,Health,Affluent Customer,N,1,6,QLD,55,50-59
+Sharai,Priddie,Female,13,Retail,Mass Customer,N,0,9,NSW,61,60+
+Celeste,Fretson,Female,91,IT,Mass Customer,N,0,9,NSW,42,40-49
+Lea,Ilyinski,Female,75,Financial Services,High Net Worth,N,0,12,NSW,25,<30
+Dyann,Olechnowicz,Female,17,Manufacturing,Mass Customer,N,0,16,VIC,83,60+
+Delly,Sunman,Female,49,Retail,Mass Customer,N,0,15,VIC,63,60+
+Malvin,Ryhorovich,Male,37,Unknown,Mass Customer,N,0,5,QLD,60,60+
+Tanya,Hamberston,Female,45,Unknown,Mass Customer,N,1,9,QLD,22,<30
+Kaela,Romaines,Female,41,Manufacturing,High Net Worth,N,0,19,NSW,51,50-59
+Evonne,Bembridge,Female,9,Retail,Mass Customer,N,1,14,VIC,53,50-59
+Shannen,Lewin,Female,21,Argiculture,High Net Worth,N,0,6,QLD,31,30-39
+Bogey,Attew,Male,88,IT,Mass Customer,N,1,10,QLD,30,30-39
+Zondra,Ringham,Female,36,Financial Services,Mass Customer,N,1,7,QLD,74,60+
+Barnebas,Apfel,Male,57,Manufacturing,Affluent Customer,N,1,2,QLD,26,<30
+Alleen,Eaken,Female,56,Unknown,Mass Customer,N,0,10,NSW,84,60+
+Gerri,Schimann,Female,81,Property,Mass Customer,N,1,18,NSW,53,50-59
+Antonietta,Egle,Female,82,Financial Services,Mass Customer,N,0,7,VIC,49,40-49
+Raff,Waycott,Male,70,Manufacturing,Affluent Customer,N,1,14,VIC,71,60+
+Lark,Gonet,Female,89,Health,High Net Worth,N,0,8,NSW,50,50-59
+Cletis,Longley,Male,84,Manufacturing,High Net Worth,N,1,1,VIC,26,<30
+Bartram,Di Lucia,Male,70,Argiculture,Mass Customer,N,1,5,NSW,61,60+
+Theresa,Cowper,Female,99,Manufacturing,Mass Customer,N,0,3,NSW,46,40-49
+Philbert,Raraty,Male,48,Manufacturing,Mass Customer,N,0,6,NSW,66,60+
+Egon,Ortells,Male,35,Manufacturing,Affluent Customer,N,0,13,NSW,46,40-49
+Dahlia,Shovlar,Female,90,Unknown,Affluent Customer,N,1,7,VIC,56,50-59
+Timi,Duny,Female,70,Telecommunications,High Net Worth,N,0,6,NSW,69,60+
+Dominick,Asher,Male,50,Health,Affluent Customer,N,1,5,VIC,60,60+
+Raye,Roo,Female,64,Financial Services,Mass Customer,N,1,16,VIC,46,40-49
+Becka,Hacon,Female,81,Financial Services,Affluent Customer,N,0,17,VIC,57,50-59
+Cirillo,Frossell,Male,7,Unknown,Mass Customer,N,0,6,NSW,54,50-59
+Verla,Dumingos,Female,26,Telecommunications,Mass Customer,N,1,10,VIC,51,50-59
+Sherrie,Godleman,Female,37,Manufacturing,Mass Customer,N,0,19,VIC,44,40-49
+Dexter,Shutle,Male,81,Unknown,Mass Customer,N,0,17,QLD,63,60+
+Konstanze,Hovie,Female,88,Health,Mass Customer,N,0,11,QLD,55,50-59
+Bink,Bentje,Male,3,Financial Services,High Net Worth,N,1,19,NSW,65,60+
+Taber,Szymon,Male,70,Argiculture,Affluent Customer,N,0,13,QLD,75,60+
+Debbi,Dannatt,Female,2,Unknown,Affluent Customer,N,0,6,QLD,64,60+
+Giana,Staresmeare,Female,96,Retail,Affluent Customer,N,1,9,NSW,46,40-49
+Morton,Petkens,Male,50,Manufacturing,High Net Worth,N,1,10,VIC,32,30-39
+Vittoria,Whitney,Female,95,Unknown,High Net Worth,N,0,12,NSW,41,40-49
+Paquito,Atwood,Male,15,Manufacturing,Affluent Customer,N,0,9,VIC,50,50-59
+Dimitri,Tribbeck,Male,89,Unknown,Affluent Customer,N,0,20,VIC,64,60+
+Shelli,Bartholomaus,Female,88,Health,Mass Customer,N,1,6,VIC,59,50-59
+Kermit,Lebond,Male,36,Financial Services,Mass Customer,N,0,4,QLD,42,40-49
+Biddie,Gorce,Female,68,Financial Services,Mass Customer,N,1,5,NSW,34,30-39
+Rupert,Marrow,Male,73,Property,High Net Worth,N,0,19,NSW,52,50-59
+Geoff,Sitford,Male,97,Financial Services,Mass Customer,N,1,4,NSW,57,50-59
+Ange,Chitham,Female,91,Argiculture,Mass Customer,N,0,10,NSW,31,30-39
+Tiphanie,Blackader,Female,59,Retail,Mass Customer,N,0,17,NSW,75,60+
+Zollie,Crinidge,Male,39,Retail,Mass Customer,N,1,10,QLD,34,30-39
+Daisy,Pollen,Female,97,Financial Services,Mass Customer,N,0,7,VIC,29,<30
+Emelen,Bidnall,Male,79,Health,Affluent Customer,N,1,11,NSW,41,40-49
+Linette,Boman,Female,56,Unknown,Affluent Customer,N,0,11,NSW,73,60+
+Manya,Abramovici,Female,42,Financial Services,High Net Worth,N,1,13,QLD,67,60+
+Brynna,Tivers,Female,81,Financial Services,Mass Customer,N,0,6,QLD,48,40-49
+Art,Carolan,Male,1,Unknown,Affluent Customer,N,1,11,NSW,68,60+
+Alfi,Sabbins,Female,63,Financial Services,High Net Worth,N,1,18,NSW,63,60+
+Loleta,Aberdalgy,Female,45,Health,Mass Customer,N,0,11,NSW,41,40-49
+Aldric,Birney,Male,21,Manufacturing,Mass Customer,N,1,14,NSW,51,50-59
+Natividad,Balducci,Female,39,Property,High Net Worth,N,1,10,VIC,31,30-39
+Claudine,Dymick,Female,28,Health,Mass Customer,N,0,5,VIC,57,50-59
+Seamus,Cains,Male,61,Manufacturing,High Net Worth,N,0,7,NSW,33,30-39
+Guss,Karim,Male,95,Manufacturing,Mass Customer,N,0,7,NSW,54,50-59
+Julietta,Setchfield,Female,73,Unknown,High Net Worth,N,1,3,QLD,30,30-39
+Roch,Symson,Female,96,Manufacturing,High Net Worth,N,0,18,VIC,44,40-49
+Audry,Fann,Female,3,Health,Mass Customer,N,1,15,VIC,65,60+
+Cecelia,Cisar,Female,20,Property,Mass Customer,N,1,15,QLD,37,30-39
+Clari,Voas,Female,74,Health,Affluent Customer,N,1,14,NSW,67,60+
+Zach,Hedman,Male,87,Financial Services,Affluent Customer,N,1,4,NSW,41,40-49
+Paxon,Roomes,Male,78,Unknown,High Net Worth,N,1,7,VIC,46,40-49
+Parnell,Lamprey,Male,23,Financial Services,High Net Worth,N,0,12,NSW,45,40-49
+Honey,Gosdin,Female,0,Property,Mass Customer,N,0,17,NSW,41,40-49
+Sonny,McCart,Male,35,Manufacturing,High Net Worth,N,0,9,VIC,30,30-39
+Deirdre,Burgoine,Female,14,Health,High Net Worth,N,0,7,VIC,67,60+
+Aldridge,Poskitt,Male,84,Unknown,Mass Customer,N,0,12,QLD,40,40-49
+Zechariah,McReidy,Male,32,Manufacturing,High Net Worth,N,0,21,QLD,44,40-49
+Carry,Costi,Female,32,Property,Mass Customer,N,0,11,NSW,50,50-59
+Ahmed,Pickthorne,Male,46,Unknown,High Net Worth,N,1,15,NSW,63,60+
+Nil,Shirer,Male,64,Entertainment,Mass Customer,N,1,7,VIC,25,<30
+Erhard,O'Moylane,Male,33,Retail,Affluent Customer,N,1,9,VIC,44,40-49
+Vitia,Axtens,Female,62,Financial Services,Mass Customer,N,1,15,NSW,77,60+
+Haskell,Moxted,Male,81,Manufacturing,Mass Customer,N,0,7,NSW,79,60+
+Ebony,Conrad,Female,8,Financial Services,Mass Customer,N,1,16,VIC,23,<30
+Lincoln,Boler,Male,53,Unknown,Affluent Customer,N,0,14,VIC,46,40-49
+Vladimir,Westmerland,Male,18,Manufacturing,Mass Customer,N,1,18,NSW,66,60+
+Kylynn,Drowsfield,Female,80,Unknown,High Net Worth,N,1,7,VIC,47,40-49
+Nicole,Ruckhard,Female,93,Health,Affluent Customer,N,1,17,QLD,53,50-59
+Celestina,Lethardy,Female,38,IT,Mass Customer,N,1,11,VIC,54,50-59
+Tannie,Petrakov,Male,84,IT,Affluent Customer,N,0,10,QLD,71,60+
+Bessy,Saladin,Female,22,Manufacturing,Mass Customer,N,1,16,QLD,83,60+
+Diego,Van den Broek,Male,17,Manufacturing,Affluent Customer,N,1,13,QLD,58,50-59
+Lucilia,Minshall,Female,71,IT,Mass Customer,N,1,7,NSW,70,60+
+Cissiee,Pollington,Female,43,Property,Mass Customer,N,1,7,NSW,81,60+
+Eddy,Sturch,Male,22,Financial Services,High Net Worth,N,1,17,QLD,61,60+
+Caron,Kezar,Female,11,Health,Mass Customer,N,0,5,NSW,69,60+
+Sandor,Stirland,Male,67,Manufacturing,High Net Worth,N,0,12,VIC,41,40-49
+Gallagher,Bromell,Male,18,Unknown,Mass Customer,N,0,17,QLD,66,60+
+Murial,Bulloch,Female,59,Financial Services,Mass Customer,N,0,13,NSW,58,50-59
+Delinda,Ech,Female,74,Argiculture,Mass Customer,N,1,17,VIC,78,60+
+Hussein,Tapenden,Male,19,Health,Affluent Customer,N,1,12,NSW,69,60+
+Giulietta,Garbott,Female,59,Unknown,Affluent Customer,N,1,14,VIC,20,<30
+Kaylyn,Jakaway,Female,45,Health,Affluent Customer,N,0,10,NSW,42,40-49
+Brynn,Goodyear,Female,30,Health,Mass Customer,N,1,11,VIC,78,60+
+Pace,Clemonts,Male,99,Retail,High Net Worth,N,0,10,VIC,32,30-39
+Muffin,Grigolon,Male,7,Telecommunications,Mass Customer,N,0,12,NSW,43,40-49
+Allsun,Biner,Female,67,Financial Services,Mass Customer,N,1,10,NSW,25,<30
+Kenneth,Elleyne,Male,13,Financial Services,Mass Customer,N,0,13,VIC,65,60+
+Clotilda,Southers,Female,62,Financial Services,Mass Customer,N,1,15,NSW,23,<30
+Augustus,Bourley,Male,60,Health,Affluent Customer,N,0,18,QLD,41,40-49
+Daisi,Tinwell,Female,84,Financial Services,Mass Customer,N,0,11,NSW,51,50-59
+Gerik,Woodroof,Male,18,Financial Services,High Net Worth,N,1,9,VIC,63,60+
+Claresta,MacConnulty,Female,6,Unknown,Mass Customer,N,1,20,NSW,65,60+
+Arty,Fontelles,Male,50,IT,High Net Worth,N,0,4,VIC,28,<30
+Giulia,Hazart,Female,57,Unknown,Mass Customer,N,0,11,QLD,44,40-49
+Whit,Emloch,Male,30,Health,Mass Customer,N,1,6,NSW,59,50-59
+Rowan,Summerly,Male,4,Entertainment,Mass Customer,N,0,9,NSW,48,40-49
+Ian,Rabat,Male,54,Financial Services,Affluent Customer,N,0,11,VIC,47,40-49
+Reginald,Jermy,Male,7,Unknown,High Net Worth,N,1,20,QLD,62,60+
+Link,Gorini,Male,60,IT,High Net Worth,N,0,10,QLD,48,40-49
+Harriet,Brattan,Female,81,Financial Services,High Net Worth,N,0,2,VIC,36,30-39
+Sada,Branton,Female,34,Manufacturing,Affluent Customer,N,0,14,VIC,48,40-49
+Jenelle,Mc-Kerley,Female,40,Financial Services,Mass Customer,N,1,16,QLD,80,60+
+Gabrila,Toopin,Female,7,Manufacturing,Mass Customer,N,0,12,NSW,59,50-59
+Almira,Mangion,Female,4,Financial Services,Affluent Customer,N,1,2,NSW,26,<30
+Arty,Strudwick,Male,85,Health,Mass Customer,N,1,8,NSW,58,50-59
+Alexa,Dillet,Female,65,Entertainment,Affluent Customer,N,0,17,NSW,78,60+
+Palmer,Heaven,Male,82,Financial Services,Affluent Customer,N,1,9,VIC,27,<30
+Porter,Buckenhill,Male,46,Manufacturing,High Net Worth,N,1,9,QLD,68,60+
+Kizzee,Kemston,Female,11,Health,Mass Customer,N,0,13,NSW,61,60+
+Isadora,Ducker,Female,15,Unknown,Affluent Customer,N,1,8,VIC,49,40-49
+Giffie,Offill,Male,51,Telecommunications,Affluent Customer,N,0,5,QLD,29,<30
+Fara,Sarath,Female,75,Unknown,Mass Customer,N,0,22,NSW,74,60+
+Carolann,Raatz,Female,25,Unknown,High Net Worth,N,0,21,VIC,43,40-49
+Tamar,Windmill,Female,92,Manufacturing,Affluent Customer,N,0,10,NSW,83,60+
+Kipp,Stockport,Male,36,Retail,Mass Customer,N,1,6,NSW,40,40-49
+Packston,Wackett,Male,10,Financial Services,Mass Customer,N,0,19,VIC,72,60+
+Hanson,Eastes,Male,74,Manufacturing,Mass Customer,N,1,5,VIC,32,30-39
+Demetria,Bausor,Female,73,Entertainment,Mass Customer,N,1,9,NSW,61,60+
+Lura,Fawdrie,Female,66,Health,Mass Customer,N,1,4,QLD,20,<30
+Nora,Anselm,Female,84,Entertainment,High Net Worth,N,1,15,QLD,61,60+
+Estevan,Eastment,Male,54,Health,Mass Customer,N,1,21,NSW,80,60+
+Aloysius,Glowacz,Male,72,Financial Services,Affluent Customer,N,0,18,NSW,43,40-49
+Bastien,Ibbeson,Male,53,IT,Mass Customer,N,0,12,NSW,46,40-49
+Otha,Langworthy,Female,91,Financial Services,Mass Customer,N,1,13,VIC,55,50-59
+Gannie,Bargh,Male,56,Unknown,Mass Customer,N,1,13,VIC,67,60+
+Dwayne,Doel,Male,80,Financial Services,Affluent Customer,N,1,17,NSW,44,40-49
+Leese,Huckleby,Female,67,Manufacturing,High Net Worth,N,1,16,VIC,45,40-49
+Dodi,Kiggel,Female,5,Financial Services,Mass Customer,N,1,13,NSW,42,40-49
+Kippar,Brimilcome,Male,21,Health,Mass Customer,N,0,19,NSW,84,60+
+Corinna,Beretta,Female,24,Health,High Net Worth,N,0,12,VIC,26,<30
+Laurie,Odlin,Female,75,Health,High Net Worth,N,0,10,VIC,39,30-39
+Mair,Erett,Female,15,Unknown,Affluent Customer,N,0,18,NSW,65,60+
+Marcelia,Copins,Female,81,Unknown,Mass Customer,N,1,21,NSW,76,60+
+Tanner,Terlinden,Male,84,Manufacturing,Mass Customer,N,0,14,VIC,27,<30
+Hilliard,Dullard,Male,65,Manufacturing,Mass Customer,N,0,17,NSW,68,60+
+Justinn,Haruard,Female,48,Health,High Net Worth,N,0,11,NSW,64,60+
+Wyn,Meach,Male,37,Manufacturing,Mass Customer,N,0,9,NSW,84,60+
+Art,Shardlow,Male,57,Argiculture,Mass Customer,N,1,15,QLD,59,50-59
+Dennis,Varnham,Male,57,Entertainment,Affluent Customer,N,0,17,VIC,69,60+
+Freddi,Litherborough,Female,46,Financial Services,Mass Customer,N,0,7,NSW,33,30-39
+Salomon,Perkins,Male,76,Financial Services,Affluent Customer,N,1,1,NSW,24,<30
+Queenie,Learie,Female,90,Property,Mass Customer,N,0,12,NSW,74,60+
+Etan,Prinett,Male,97,Argiculture,Mass Customer,N,1,10,NSW,52,50-59
+Donaugh,Benedict,Male,3,Property,Mass Customer,N,0,12,NSW,31,30-39
+Harwell,Kleinstein,Male,87,Retail,Affluent Customer,N,0,15,VIC,29,<30
+Cheston,Hritzko,Male,70,Manufacturing,Mass Customer,N,1,19,NSW,77,60+
+Suzy,Trounson,Female,13,Financial Services,Mass Customer,N,1,20,QLD,75,60+
+Jobie,Runacres,Female,96,Unknown,Mass Customer,N,1,18,NSW,47,40-49
+Guenna,Filisov,Female,52,Manufacturing,High Net Worth,N,0,13,NSW,53,50-59
+Opal,Cleare,Female,6,Property,Affluent Customer,N,1,20,NSW,45,40-49
+Ottilie,Wanless,Female,51,Unknown,Affluent Customer,N,0,8,NSW,82,60+
+Kipper,Circuit,Male,23,Argiculture,Mass Customer,N,1,4,NSW,48,40-49
+Marilin,Frome,Female,58,IT,Mass Customer,N,1,17,NSW,47,40-49
+Arel,Abramovitz,Male,72,Health,Mass Customer,N,0,16,QLD,65,60+
+Kit,Easdon,Male,61,Property,Affluent Customer,N,0,12,VIC,44,40-49
+Skipp,Swales,Male,15,Entertainment,High Net Worth,N,1,22,VIC,49,40-49
+Frederich,Glantz,Male,37,Manufacturing,High Net Worth,N,1,10,NSW,25,<30
+Rodolph,Denniss,Male,28,Property,Affluent Customer,N,1,7,VIC,48,40-49
+Craggie,Dering,Male,47,Financial Services,Mass Customer,N,0,7,NSW,70,60+
+Giralda,MacPeake,Female,59,Entertainment,High Net Worth,N,1,14,NSW,81,60+
+Rodney,Trethewey,Male,16,Financial Services,Affluent Customer,N,0,15,VIC,25,<30
+Gleda,Howerd,Female,59,IT,Mass Customer,N,0,6,NSW,58,50-59
+Melany,Ladewig,Female,76,Financial Services,Mass Customer,N,1,10,QLD,50,50-59
+Claudell,Rounsefell,Male,67,Financial Services,Affluent Customer,N,0,8,QLD,29,<30
+Garwin,Nurden,Male,54,Property,High Net Worth,N,1,5,VIC,64,60+
+Bunny,Leebetter,Female,83,Manufacturing,High Net Worth,N,1,8,QLD,56,50-59
+Matias,Melloi,Male,61,Retail,Affluent Customer,N,0,11,NSW,45,40-49
+Sada,Dowyer,Female,47,Unknown,High Net Worth,N,1,3,NSW,24,<30
+Anet,Roseman,Female,84,Financial Services,Mass Customer,N,0,9,VIC,26,<30
+Katie,Warhurst,Female,0,Retail,High Net Worth,N,1,14,VIC,31,30-39
+Celia,Bryden,Female,12,Manufacturing,High Net Worth,N,0,21,NSW,79,60+
+Stearne,Trolley,Male,42,Financial Services,High Net Worth,N,0,14,NSW,40,40-49
+Tristam,Larose,Male,70,Financial Services,Mass Customer,N,0,17,NSW,37,30-39
+Heloise,Fairpool,Female,17,Manufacturing,High Net Worth,N,0,17,QLD,46,40-49
+Dory,Malpass,Female,19,Unknown,Affluent Customer,N,1,13,QLD,50,50-59
+Marcellina,Baynton,Female,60,Financial Services,Mass Customer,N,0,16,VIC,75,60+
+Gregorius,Leal,Male,7,Retail,Affluent Customer,N,1,21,NSW,71,60+
+Deana,Canton,Female,67,Property,Mass Customer,N,1,14,QLD,48,40-49
+Kori,Sparsholt,Female,59,Unknown,Mass Customer,N,1,19,NSW,82,60+
+Lucky,Klainman,Female,24,Retail,Mass Customer,N,0,8,VIC,75,60+
+Erasmus,Olenchenko,Male,56,Property,Mass Customer,N,1,5,NSW,57,50-59
+Carita,Sand,Female,25,Retail,Mass Customer,N,0,16,NSW,45,40-49
+Lynnett,Tipper,Female,22,Health,High Net Worth,N,1,2,VIC,29,<30
+Thorn,Stigers,Male,42,Financial Services,Mass Customer,N,0,19,QLD,50,50-59
+Lela,Billing,Female,38,Unknown,Mass Customer,N,1,18,NSW,52,50-59
+Norah,Mapis,Female,75,Argiculture,Mass Customer,N,0,10,NSW,22,<30
+Moina,Rosenbaum,Female,50,IT,Mass Customer,N,0,14,VIC,21,<30
+Ceciley,Harg,Female,50,Retail,Mass Customer,N,1,4,QLD,32,30-39
+Torry,de la Valette Parisot,Male,95,Telecommunications,Mass Customer,N,1,18,VIC,55,50-59
+Sigismund,Sedger,Male,9,Manufacturing,Affluent Customer,N,0,7,NSW,23,<30
+Irvine,Headon,Male,99,IT,Affluent Customer,N,1,20,NSW,66,60+
+Tomkin,Bernlin,Male,7,Health,Affluent Customer,N,1,9,NSW,21,<30
+Genni,Fanstone,Female,25,Entertainment,Mass Customer,N,0,16,VIC,50,50-59
+Aloysius,Killingsworth,Male,89,Unknown,Mass Customer,N,0,12,NSW,65,60+
+Carola,Philler,Female,73,Health,High Net Worth,N,0,15,NSW,71,60+
+Fitzgerald,Hellikes,Male,25,Health,Mass Customer,N,1,10,VIC,43,40-49
+Ingmar,Okenden,Male,97,Financial Services,Mass Customer,N,1,8,VIC,63,60+
+Tina,Dunstan,Female,13,Retail,Affluent Customer,N,0,13,NSW,83,60+
+Huberto,Mollatt,Male,82,Unknown,Mass Customer,N,1,14,NSW,61,60+
+Adolpho,Bellerby,Male,46,Financial Services,High Net Worth,N,1,13,QLD,78,60+
+Kelsey,Hatt,Female,69,Financial Services,High Net Worth,N,0,8,VIC,56,50-59
+Ariel,McCloid,Male,4,Unknown,High Net Worth,N,1,6,VIC,28,<30
+Bevvy,Openshaw,Female,68,Unknown,Affluent Customer,N,1,10,NSW,47,40-49
+Alexina,Mabley,Female,72,Manufacturing,Mass Customer,N,1,10,NSW,47,40-49
+Dawn,Pyffe,Female,56,Retail,Mass Customer,N,0,11,VIC,57,50-59
+Claudette,Renackowna,Female,55,Manufacturing,Mass Customer,N,0,2,NSW,26,<30
+Elianora,Poolton,Female,15,Unknown,Mass Customer,N,1,21,VIC,78,60+
+Anthony,Lindstrom,Male,86,Financial Services,Affluent Customer,N,1,10,NSW,25,<30
+Liane,Poizer,Female,59,Property,High Net Worth,N,0,13,NSW,70,60+
+Romonda,Hallt,Female,69,Unknown,Affluent Customer,N,0,15,NSW,62,60+
+Sula,Thomann,Female,56,Unknown,Mass Customer,N,0,6,NSW,33,30-39
+Renell,Earley,Female,5,Financial Services,Mass Customer,N,1,11,QLD,68,60+
+Cliff,Philipsson,Male,82,Argiculture,Mass Customer,N,0,16,VIC,55,50-59
+Clevey,Aisthorpe,Male,27,Unknown,Mass Customer,N,1,8,NSW,46,40-49
+George,Jose,Male,68,Retail,High Net Worth,N,1,20,QLD,62,60+
+Kissiah,Foat,Female,30,Unknown,Mass Customer,N,1,19,NSW,47,40-49
+Milty,Brauninger,Male,13,Unknown,High Net Worth,N,0,11,NSW,77,60+
+Killian,Nettles,Male,44,Unknown,Affluent Customer,N,0,4,VIC,42,40-49
+Fredia,Favelle,Female,94,Unknown,Mass Customer,N,1,19,QLD,48,40-49
+Katleen,Arnoult,Female,6,Manufacturing,Mass Customer,N,1,13,NSW,46,40-49
+Gaultiero,Fibbens,Male,41,Unknown,Affluent Customer,N,0,9,NSW,42,40-49
+Inglebert,Aspinal,Male,4,Financial Services,Mass Customer,N,0,11,NSW,49,40-49
+Jammal,Devenny,Male,57,Retail,High Net Worth,N,0,12,VIC,23,<30
+Adriane,Richardson,Female,81,Manufacturing,High Net Worth,N,0,9,VIC,46,40-49
+Jodi,Lermit,Female,94,Health,Mass Customer,N,1,10,QLD,68,60+
+Emelia,Ackwood,Female,72,Financial Services,Mass Customer,N,1,10,QLD,34,30-39
+Andee,Huke,Female,91,Manufacturing,Mass Customer,N,0,9,VIC,51,50-59
+Isa,Fominov,Male,75,Unknown,Mass Customer,N,1,5,NSW,21,<30
+Zabrina,Margram,Female,87,Manufacturing,High Net Worth,N,1,11,QLD,58,50-59
+Maddalena,Angood,Female,79,Manufacturing,Affluent Customer,N,0,12,NSW,23,<30
+Sofie,Worsfold,Female,87,Retail,Mass Customer,N,1,9,QLD,68,60+
+Elmira,Vasilyev,Female,33,Manufacturing,High Net Worth,N,0,12,NSW,71,60+
+Free,Rowland,Male,42,Unknown,Mass Customer,N,1,12,VIC,66,60+
+Worthington,Cohane,Male,60,Entertainment,High Net Worth,N,0,2,NSW,31,30-39
+Bailey,Bereford,Male,44,Argiculture,Affluent Customer,N,1,11,NSW,72,60+
+Perry,Whitehurst,Male,79,Manufacturing,High Net Worth,N,1,8,VIC,42,40-49
+Antony,Tuma,Male,11,Telecommunications,High Net Worth,N,1,13,VIC,68,60+
+Corene,Hallgate,Female,26,Financial Services,Mass Customer,N,1,14,VIC,58,50-59
+Nico,Chadwick,Male,97,Financial Services,Affluent Customer,N,0,13,VIC,69,60+
+Joline,Skipperbottom,Female,59,Unknown,High Net Worth,N,0,9,NSW,50,50-59
+Ivy,Farr,Female,56,IT,High Net Worth,N,0,19,NSW,49,40-49
+Dallas,Lavalde,Female,18,Unknown,Mass Customer,N,0,12,NSW,24,<30
+Hilario,McCulloch,Male,61,Retail,Mass Customer,N,0,8,VIC,36,30-39
+Jim,Haddrell,Male,55,Financial Services,Mass Customer,N,0,9,NSW,67,60+
+Jacobo,Mucklow,Male,62,Financial Services,High Net Worth,N,1,22,VIC,70,60+
+Gretel,Paschke,Female,10,Financial Services,Mass Customer,N,1,17,QLD,66,60+
+Jethro,Mertel,Male,16,Argiculture,Mass Customer,N,1,15,NSW,44,40-49
+Dwain,Hatch,Male,62,Health,Affluent Customer,N,0,15,VIC,28,<30
+Lucretia,D'Agostini,Female,41,Manufacturing,High Net Worth,N,0,15,VIC,44,40-49
+Claude,Bowstead,Female,37,Manufacturing,Mass Customer,N,0,7,NSW,25,<30
+Donn,MacGregor,Male,80,Manufacturing,High Net Worth,N,0,5,NSW,57,50-59
+Laurel,Devennie,Female,78,Manufacturing,Affluent Customer,N,0,13,QLD,46,40-49
+Elvira,Darthe,Female,10,Financial Services,Affluent Customer,N,0,16,NSW,47,40-49
+Angie,Tansley,Male,68,Manufacturing,Mass Customer,N,0,8,NSW,72,60+
+Terrence,Dalligan,Male,60,Manufacturing,High Net Worth,N,1,2,VIC,24,<30
+Katy,Crooke,Female,0,Health,Mass Customer,N,0,13,NSW,45,40-49
+Sammy,Borsi,Female,99,Financial Services,Mass Customer,N,0,5,NSW,50,50-59
+Morganica,Ainsbury,Female,37,Entertainment,High Net Worth,N,1,9,NSW,49,40-49
+Nils,Champion,Male,69,Retail,Affluent Customer,N,0,13,NSW,38,30-39
+Beverlee,Querree,Female,42,Financial Services,High Net Worth,N,1,12,NSW,31,30-39
+Cami,Eitter,Female,34,Manufacturing,High Net Worth,N,1,11,VIC,43,40-49
+Reiko,Degenhardt,Female,83,Financial Services,High Net Worth,N,1,5,QLD,46,40-49
+Cord,Dunsmore,Male,12,Manufacturing,Mass Customer,N,1,13,QLD,23,<30
+Gabey,Kennicott,Female,55,Financial Services,Affluent Customer,N,0,17,NSW,64,60+
+Jacqui,Devey,Female,79,Financial Services,High Net Worth,N,1,13,NSW,27,<30
+Byrom,Ramas,Male,23,Manufacturing,High Net Worth,N,0,12,NSW,29,<30
+Worthington,Ahmed,Male,79,Financial Services,High Net Worth,N,0,13,VIC,50,50-59
+Chico,Dye,Male,46,Manufacturing,High Net Worth,N,0,13,NSW,28,<30
+Davidde,Cockroft,Male,70,Manufacturing,High Net Worth,N,0,8,NSW,75,60+
+Charlie,Dmych,Male,60,Manufacturing,High Net Worth,N,0,13,NSW,72,60+
+Donn,Chaney,Male,15,Unknown,Mass Customer,N,0,13,QLD,71,60+
+Kamila,Parsonage,Female,80,Property,Mass Customer,N,0,5,QLD,68,60+
+Barth,Sapshed,Male,4,Financial Services,Mass Customer,N,1,13,QLD,28,<30
+Padriac,Collacombe,Male,67,Health,Affluent Customer,N,0,13,NSW,55,50-59
+Olive,Mozzi,Female,87,Retail,Affluent Customer,N,1,20,NSW,67,60+
+Benedict,Rosas,Male,73,Financial Services,High Net Worth,N,1,15,NSW,67,60+
+Virginia,De Antoni,Female,17,Telecommunications,High Net Worth,N,1,12,NSW,58,50-59
+Nicolas,O'Donnell,Male,40,Unknown,Mass Customer,N,1,14,VIC,36,30-39
+Oswald,MacCarlich,Male,81,Entertainment,Mass Customer,N,0,14,QLD,31,30-39
+Ailyn,Howgate,Female,66,Manufacturing,Mass Customer,N,1,2,QLD,21,<30
+Karol,Salthouse,Female,53,Financial Services,Mass Customer,N,1,18,NSW,54,50-59
+Esdras,Birchett,Male,81,Entertainment,Mass Customer,N,1,21,NSW,72,60+
+Wilfrid,Gertray,Male,1,Financial Services,Mass Customer,N,0,16,NSW,80,60+
+Charmain,Styles,Female,49,Property,High Net Worth,N,1,18,VIC,57,50-59
+Kirsteni,Gritskov,Female,66,Unknown,Mass Customer,N,0,4,NSW,24,<30
+Bobby,Summersby,Male,90,Financial Services,Affluent Customer,N,0,7,VIC,79,60+
+Shepherd,Dutchburn,Male,33,Financial Services,High Net Worth,N,1,9,NSW,46,40-49
+Berenice,Kaesmakers,Female,64,Retail,Mass Customer,N,0,11,NSW,28,<30
+Jesse,Crosio,Male,75,Unknown,Mass Customer,N,1,13,VIC,28,<30
+Cordi,Thornton,Female,47,Telecommunications,Mass Customer,N,0,11,NSW,49,40-49
+Debbie,Tillman,Female,3,Manufacturing,High Net Worth,N,1,13,QLD,32,30-39
+Judie,Pirkis,Female,2,Unknown,Affluent Customer,N,1,4,NSW,27,<30
+Flin,Yoskowitz,Male,9,Health,Mass Customer,N,1,11,NSW,27,<30
+Noel,Sturch,Female,26,Health,Mass Customer,N,0,10,VIC,71,60+
+Letizia,Poore,Female,27,Manufacturing,Affluent Customer,N,0,15,VIC,84,60+
+Kiley,Grunder,Male,95,Financial Services,Affluent Customer,N,1,1,QLD,28,<30
+Ethelred,Sissel,Male,83,Health,High Net Worth,N,0,18,NSW,48,40-49
+Dena,Pabst,Female,39,Manufacturing,High Net Worth,N,1,17,VIC,35,30-39
+Wyndham,Woolford,Male,1,Manufacturing,Mass Customer,N,0,10,VIC,43,40-49
+Rochette,Haddacks,Female,44,Retail,Affluent Customer,N,1,13,VIC,26,<30
+Jamal,Dudgeon,Male,83,Financial Services,Mass Customer,N,0,7,VIC,57,50-59
+Levin,Coxen,Male,13,Property,Mass Customer,N,0,20,NSW,67,60+
+Marinna,Kauschke,Female,21,Financial Services,Affluent Customer,N,1,8,VIC,49,40-49
+Kyle,Michie,Female,6,Unknown,Mass Customer,N,1,10,VIC,64,60+
+Lanie,Cobbold,Male,57,Unknown,Mass Customer,N,1,9,NSW,44,40-49
+Gilbert,O'Fallone,Male,29,Entertainment,High Net Worth,N,0,1,NSW,28,<30
+Esther,McOnie,Female,59,Unknown,Mass Customer,N,0,14,NSW,83,60+
+Chaim,Kingdon,Male,63,Financial Services,Affluent Customer,N,1,15,NSW,26,<30
+Anson,Dearnaly,Male,68,Health,Affluent Customer,N,1,11,NSW,25,<30
+Caitrin,Critten,Female,45,Manufacturing,Mass Customer,N,1,10,QLD,49,40-49
+Garreth,Minett,Male,93,Unknown,Affluent Customer,N,1,10,VIC,61,60+
+Rozamond,Sommer,Female,27,IT,Affluent Customer,N,1,12,VIC,56,50-59
+Annabell,Downer,Female,33,Unknown,Affluent Customer,N,0,20,NSW,67,60+
+Maximilian,Geffen,Male,96,Manufacturing,Mass Customer,N,1,20,NSW,67,60+
+Ajay,Worham,Female,80,Manufacturing,Mass Customer,N,1,12,NSW,43,40-49
+Jamison,Cashin,Male,70,Health,Mass Customer,N,1,5,NSW,52,50-59
+Dorian,Emery,Female,94,Manufacturing,Mass Customer,N,1,9,NSW,24,<30
+Nicol,Swinford,Male,65,Property,High Net Worth,N,0,16,QLD,46,40-49
+Agna,Cowpe,Female,88,Property,Mass Customer,N,1,7,QLD,53,50-59
+Nev,Prosh,Male,29,Health,Affluent Customer,N,1,17,NSW,72,60+
+Lucius,Hatchell,Male,37,Retail,Mass Customer,N,1,14,VIC,71,60+
+Francisca,Pottage,Female,63,IT,Mass Customer,N,0,8,NSW,65,60+
+Farlie,Brookz,Male,62,Health,Mass Customer,N,1,6,NSW,59,50-59
+Beverlee,Ungerechts,Female,49,Manufacturing,Mass Customer,N,0,8,QLD,49,40-49
+Nanni,Girodias,Female,61,Retail,High Net Worth,N,0,16,NSW,63,60+
+Delcina,Hursey,Female,22,Financial Services,Mass Customer,N,1,7,QLD,54,50-59
+Lek,Pimblett,Male,88,Financial Services,Mass Customer,N,1,6,NSW,67,60+
+Kellyann,Adshad,Female,62,Unknown,Mass Customer,N,1,22,NSW,82,60+
+Ewell,Paulusch,Male,31,Manufacturing,Mass Customer,N,1,8,QLD,24,<30
+Madison,Lars,Male,11,Health,Mass Customer,N,0,19,QLD,55,50-59
+Ardis,Taree,Female,97,Manufacturing,Affluent Customer,N,1,5,QLD,62,60+
+Wheeler,Godsil,Male,51,Manufacturing,Affluent Customer,N,1,6,NSW,29,<30
+Marissa,O'Scandall,Female,17,Unknown,Affluent Customer,N,1,7,VIC,49,40-49
+Terrel,Keynd,Male,30,Manufacturing,Mass Customer,N,0,9,QLD,61,60+
+Augie,Swallwell,Male,42,Property,Affluent Customer,N,1,13,NSW,83,60+
+Dillon,Bannister,Male,7,Unknown,Mass Customer,N,0,11,NSW,77,60+
+Osbourn,Gherardini,Male,43,Unknown,High Net Worth,N,1,16,NSW,35,30-39
+Lissa,Gawn,Female,86,Health,Mass Customer,N,1,17,QLD,60,60+
+Leisha,McConway,Female,3,Financial Services,Mass Customer,N,1,13,VIC,47,40-49
+Kearney,Cuddehy,Male,88,Retail,Mass Customer,N,0,12,QLD,25,<30
+Shellysheldon,Bichard,Male,96,Financial Services,Mass Customer,N,1,16,QLD,68,60+
+Reinhard,Oscroft,Male,23,Health,High Net Worth,N,0,18,VIC,72,60+
+Menard,Venmore,Male,97,Retail,High Net Worth,N,0,8,NSW,44,40-49
+Andree,Breeds,Female,31,Financial Services,Affluent Customer,N,1,11,VIC,68,60+
+Kata,Harrop,Female,70,Retail,Affluent Customer,N,1,13,NSW,72,60+
+Pierrette,Gummie,Female,18,Retail,Affluent Customer,N,0,14,VIC,56,50-59
+Nady,Withinshaw,Female,96,Unknown,High Net Worth,N,0,8,QLD,54,50-59
+Demott,Mullaly,Male,42,Property,Mass Customer,N,0,13,NSW,40,40-49
+Wendye,Kleinplatz,Female,48,Manufacturing,Affluent Customer,N,0,14,QLD,26,<30
+Irvin,Bevans,Male,82,Manufacturing,Mass Customer,N,0,12,NSW,60,60+
+Madella,Marquiss,Female,51,Unknown,Affluent Customer,N,0,18,VIC,46,40-49
+Austine,Speedy,Female,38,Argiculture,High Net Worth,N,1,14,NSW,82,60+
+Wolf,Craft,Male,93,Retail,Affluent Customer,N,1,5,NSW,27,<30
+Aldin,Newsome,Male,24,Financial Services,Mass Customer,N,0,17,NSW,41,40-49
+Sindee,Jasik,Female,18,Health,Mass Customer,N,1,15,QLD,80,60+
+Truman,Arlett,Male,58,Manufacturing,High Net Worth,N,1,16,NSW,64,60+
+Gordon,Rewan,Male,42,Unknown,Mass Customer,N,0,5,NSW,34,30-39
+Israel,Brough,Male,29,Unknown,Mass Customer,N,1,8,NSW,46,40-49
+Leticia,Hovenden,Female,98,Retail,Mass Customer,N,1,1,VIC,25,<30
+Caritta,Compston,Female,86,Manufacturing,Mass Customer,N,1,17,VIC,64,60+
+Annabelle,Hanwell,Female,11,Manufacturing,High Net Worth,N,1,15,VIC,71,60+
+Darryl,Hovee,Female,2,Financial Services,Mass Customer,N,1,19,NSW,78,60+
+Orly,Nesbitt,Female,6,Manufacturing,High Net Worth,N,1,14,VIC,37,30-39
+Margette,Gibard,Female,34,Manufacturing,Affluent Customer,N,1,9,NSW,80,60+
+Nicol,Bertot,Female,25,Financial Services,Affluent Customer,N,1,18,VIC,45,40-49
+Nobe,Trowsdale,Male,12,Financial Services,Mass Customer,N,0,16,VIC,54,50-59
+Stephen,Tittershill,Male,73,Financial Services,High Net Worth,N,0,6,VIC,31,30-39
+Giselbert,Pickring,Male,94,Manufacturing,Affluent Customer,N,1,20,NSW,63,60+
+Shane,Diss,Female,50,Financial Services,High Net Worth,N,1,16,VIC,42,40-49
+Lisette,Davers,Female,59,Health,High Net Worth,N,0,17,NSW,82,60+
+Kippar,Whyatt,Male,13,Property,Mass Customer,N,0,10,NSW,62,60+
+Xenia,Maleck,Female,41,Telecommunications,Mass Customer,N,0,12,VIC,62,60+
+Essie,Withur,Female,42,Financial Services,High Net Worth,N,0,19,VIC,81,60+
+Cecil,Gant,Male,52,Unknown,High Net Worth,N,1,9,NSW,46,40-49
+Lillis,Eshmade,Female,50,Financial Services,Mass Customer,N,1,22,QLD,48,40-49
+Ted,Izacenko,Male,3,Entertainment,High Net Worth,N,0,9,VIC,63,60+
+Nixie,Shoesmith,Female,45,Retail,Affluent Customer,N,0,12,QLD,66,60+
+Briana,Trill,Female,5,Health,High Net Worth,N,0,11,NSW,78,60+
+Cobbie,Bruyett,Male,20,Unknown,Mass Customer,N,1,20,NSW,66,60+
+Wrennie,Dwelly,Female,23,Manufacturing,Mass Customer,N,0,18,VIC,82,60+
+Sibylla,Kibble,Female,73,Health,High Net Worth,N,0,12,NSW,60,60+
+Kariotta,Naper,Female,8,Health,Mass Customer,N,0,21,NSW,70,60+
+Wylie,Huntingdon,Male,99,Financial Services,Mass Customer,N,0,15,NSW,56,50-59
+Lizbeth,Garvan,Female,36,Health,Mass Customer,N,0,4,NSW,26,<30
+Averil,Ackery,Male,93,Retail,Mass Customer,N,1,7,NSW,52,50-59
+Myrtie,Ostrich,Female,70,Property,Affluent Customer,N,1,9,NSW,26,<30
+Ross,Vidgen,Male,17,Retail,Affluent Customer,N,0,12,QLD,75,60+
+Sibby,Skinner,Female,25,Manufacturing,Mass Customer,N,1,12,QLD,41,40-49
+Selle,Casper,Female,98,Health,Mass Customer,N,1,10,NSW,44,40-49
+Andrew,Froment,Male,58,Retail,High Net Worth,N,0,7,VIC,45,40-49
+Maurizia,Ritmeyer,Female,95,Entertainment,Mass Customer,N,1,3,NSW,42,40-49
+Keenan,Moriarty,Male,67,Financial Services,Mass Customer,N,1,2,QLD,28,<30
+Davide,Senten,Male,22,Manufacturing,Mass Customer,N,0,11,NSW,81,60+
+Renie,Fiveash,Female,92,Health,High Net Worth,N,0,16,QLD,30,30-39
+Willard,Booton,Male,69,Health,High Net Worth,N,1,7,NSW,84,60+
+Debby,Balmadier,Female,53,Financial Services,Affluent Customer,N,1,5,VIC,30,30-39
+Rockie,MacKibbon,Male,42,Unknown,Mass Customer,N,1,13,NSW,44,40-49
+Harvey,Dwelley,Male,70,Financial Services,Affluent Customer,N,0,18,NSW,49,40-49
+Patrice,Pariss,Male,96,Financial Services,Mass Customer,N,0,9,QLD,68,60+
+Arman,Yakubov,Male,68,Property,High Net Worth,N,1,17,NSW,45,40-49
+Gardiner,Gypps,Male,91,Retail,Mass Customer,N,1,13,NSW,31,30-39
+Cathleen,Le Teve,Female,75,Unknown,High Net Worth,N,0,18,QLD,72,60+
+Thaddus,Joder,Male,31,Manufacturing,Mass Customer,N,0,7,NSW,65,60+
+Josepha,Clamp,Female,12,Unknown,High Net Worth,N,0,12,NSW,61,60+
+Jillane,Simion,Female,8,Manufacturing,High Net Worth,N,0,7,QLD,48,40-49
+Lynnell,Shoesmith,Female,44,Health,High Net Worth,N,1,7,NSW,41,40-49
+Mandie,MacAdie,Female,39,Telecommunications,High Net Worth,N,0,13,NSW,48,40-49
+Ferdinand,Billie,Male,97,Manufacturing,Mass Customer,N,0,6,NSW,57,50-59
+Suzy,Bussens,Female,44,Financial Services,Mass Customer,N,0,13,QLD,49,40-49
+Emeline,Vezey,Female,37,Health,Affluent Customer,N,1,19,VIC,69,60+
+Cissiee,Baylis,Female,99,Financial Services,High Net Worth,N,0,16,NSW,71,60+
+Roldan,Raybould,Male,27,Financial Services,Mass Customer,N,0,11,VIC,47,40-49
+Barth,Weare,Male,18,Health,Mass Customer,N,1,8,NSW,76,60+
+Alta,Pithcock,Female,64,Financial Services,Mass Customer,N,0,2,NSW,23,<30
+Marc,Keunemann,Male,57,Health,Affluent Customer,N,1,14,NSW,50,50-59
+Bertine,Smalles,Female,85,Financial Services,Mass Customer,N,1,9,VIC,39,30-39
+Wilbert,O'Loughnan,Male,14,Financial Services,Mass Customer,N,1,6,QLD,39,30-39
+Seymour,Fellibrand,Male,28,Unknown,Affluent Customer,N,1,18,QLD,51,50-59
+Miran,Runchman,Female,47,Retail,Mass Customer,N,0,17,QLD,47,40-49
+Dorotea,Fenwick,Female,74,Financial Services,High Net Worth,N,0,12,NSW,72,60+
+Jenny,Massy,Female,82,Telecommunications,Mass Customer,N,1,10,NSW,59,50-59
+Hyman,Petrolli,Male,8,Unknown,Affluent Customer,N,1,4,VIC,57,50-59
+Beatrix,McGivena,Female,26,Health,Mass Customer,N,1,9,QLD,56,50-59
+Nalani,Hallad,Female,15,Health,Affluent Customer,N,1,9,VIC,23,<30
+Inglebert,Butland,Male,71,Financial Services,Mass Customer,N,1,7,NSW,56,50-59
+Brendis,Pineaux,Male,12,Manufacturing,Mass Customer,N,0,5,NSW,44,40-49
+Jaimie,Lancastle,Male,71,Unknown,Mass Customer,N,1,5,NSW,50,50-59
+Glendon,Malham,Male,36,Manufacturing,Mass Customer,N,0,17,VIC,57,50-59
+Morganica,Bentke,Female,40,IT,Affluent Customer,N,1,21,VIC,45,40-49
+Calida,Schaben,Female,54,Unknown,Mass Customer,N,1,10,NSW,53,50-59
+Hallsy,Voysey,Male,83,Unknown,Mass Customer,N,0,16,VIC,52,50-59
+Lanny,Currall,Male,37,Unknown,High Net Worth,N,1,9,NSW,25,<30
+Son,Varney,Male,75,Property,Mass Customer,N,1,10,NSW,29,<30
+Bartram,Caltun,Male,28,Health,Affluent Customer,N,1,12,NSW,66,60+
+Halette,Borsi,Female,60,Health,Affluent Customer,N,1,16,NSW,61,60+
+Killie,Densie,Male,87,IT,Mass Customer,N,1,11,NSW,25,<30
+Mandi,Adamsson,Female,40,Manufacturing,Mass Customer,N,1,5,QLD,30,30-39
+Kylila,Basezzi,Female,94,Unknown,Mass Customer,N,1,9,QLD,77,60+
+Yardley,Matten,Male,35,Financial Services,Mass Customer,N,0,15,QLD,31,30-39
+Shepperd,Leonards,Male,17,Manufacturing,Mass Customer,N,1,5,NSW,41,40-49
+Hamel,Curzey,Male,11,Unknown,Mass Customer,N,1,9,QLD,32,30-39
+Fancie,Woofendell,Female,68,Health,Mass Customer,N,1,6,QLD,56,50-59
+Zebulen,Emtage,Male,52,Unknown,High Net Worth,N,1,17,QLD,59,50-59
+Micheil,Fleote,Male,48,Manufacturing,High Net Worth,N,0,16,NSW,47,40-49
+Cecily,Faircley,Female,42,IT,Affluent Customer,N,1,19,QLD,75,60+
+Glory,Chilcott,Female,49,Telecommunications,High Net Worth,N,0,9,QLD,83,60+
+Sinclair,Wark,Male,68,Financial Services,Mass Customer,N,1,11,NSW,48,40-49
+Tomaso,Horsley,Male,97,Financial Services,Mass Customer,N,1,10,VIC,21,<30
+Gilli,Christophers,Female,70,Property,Affluent Customer,N,1,17,QLD,74,60+
+Errick,Burgin,Male,87,Entertainment,Mass Customer,N,0,11,NSW,24,<30
+Damian,Renard,Male,43,Retail,Affluent Customer,N,0,8,NSW,46,40-49
+Agnola,Batterson,Female,86,Financial Services,Mass Customer,N,0,7,QLD,42,40-49
+Riki,Wandtke,Female,25,Entertainment,Mass Customer,N,1,5,QLD,60,60+
+Mikol,Eck,Male,99,Financial Services,Mass Customer,N,1,21,QLD,47,40-49
+Phyllis,Wibberley,Female,7,Retail,Affluent Customer,N,0,11,NSW,51,50-59
+Burt,Vasechkin,Male,33,Retail,Mass Customer,N,1,20,VIC,72,60+
+Trudie,Phinnessy,Female,45,Financial Services,Mass Customer,N,1,15,VIC,62,60+
+Frederigo,Cribbott,Male,35,Health,Mass Customer,N,0,16,NSW,57,50-59
+Glenda,Eliet,Female,87,Unknown,Mass Customer,N,0,12,VIC,48,40-49
+Cal,Van den Velde,Male,22,Financial Services,Affluent Customer,N,1,6,VIC,26,<30
+Stephani,Sidsaff,Female,32,Financial Services,Mass Customer,N,1,6,NSW,49,40-49
+Meade,Bampton,Male,69,Health,High Net Worth,N,0,17,NSW,40,40-49
+Flore,Cashen,Female,79,Health,High Net Worth,N,0,17,NSW,44,40-49
+Leighton,Firbanks,Male,51,Retail,Affluent Customer,N,0,21,QLD,49,40-49
+Petr,Westman,Male,5,Property,Mass Customer,N,0,7,QLD,35,30-39
+Yorgos,Dewhurst,Male,6,Argiculture,Affluent Customer,N,0,16,QLD,72,60+
+Simmonds,Bapty,Male,52,Financial Services,Affluent Customer,N,0,8,NSW,20,<30
+Hagen,MacCarter,Male,93,Entertainment,Affluent Customer,N,1,15,VIC,39,30-39
+Cazzie,Stanwix,Male,37,Manufacturing,High Net Worth,N,1,11,QLD,62,60+
+Geoff,Gwillym,Male,89,Health,Affluent Customer,N,0,8,NSW,23,<30
+Deirdre,Sturgeon,Female,11,Retail,Mass Customer,N,1,9,NSW,57,50-59
+Andrea,Pendle,Female,86,Unknown,High Net Worth,N,1,13,QLD,84,60+
+Juliann,Siemantel,Female,86,Entertainment,Mass Customer,N,0,22,VIC,75,60+
+Janaye,Eade,Female,23,Health,Affluent Customer,N,0,4,NSW,38,30-39
+Dylan,Stranio,Male,47,Manufacturing,High Net Worth,N,1,9,NSW,69,60+
+Mel,Rochford,Female,11,Retail,Mass Customer,N,1,4,VIC,33,30-39
+Elvin,Trayhorn,Male,46,Financial Services,High Net Worth,N,0,10,NSW,29,<30
+Sonni,Milligan,Female,73,Retail,Mass Customer,N,1,14,VIC,34,30-39
+Kellina,Haygreen,Female,38,Entertainment,Affluent Customer,N,0,18,NSW,56,50-59
+Yuma,Dennick,Male,40,Manufacturing,Mass Customer,N,1,6,NSW,50,50-59
+Therese,Brotherhood,Female,30,Health,Mass Customer,N,0,10,NSW,41,40-49
+Pansie,Beccero,Female,35,Financial Services,Affluent Customer,N,1,10,QLD,58,50-59
+Reinaldos,Simmig,Male,55,Manufacturing,High Net Worth,N,0,8,VIC,67,60+
+Calhoun,Mussington,Male,98,Health,Mass Customer,N,0,12,NSW,30,30-39
+Winn,Wells,Male,66,Manufacturing,Affluent Customer,N,0,9,NSW,28,<30
+Rafi,Brettelle,Male,89,Health,High Net Worth,N,0,6,NSW,66,60+
+Verne,Loalday,Male,1,IT,High Net Worth,N,0,7,NSW,40,40-49
+Eleonora,Wiszniewski,Female,49,Financial Services,Affluent Customer,N,0,9,QLD,42,40-49
+Fayre,Brannigan,Female,32,Manufacturing,Mass Customer,N,1,9,NSW,30,30-39
+Eachelle,Noirel,Female,93,Health,Affluent Customer,N,1,11,NSW,48,40-49
+Carl,Troyes,Male,4,Property,Mass Customer,N,0,7,VIC,49,40-49
+Cordie,Brankley,Female,79,Entertainment,High Net Worth,N,0,18,NSW,68,60+
+Jackie,Pays,Male,21,Health,Mass Customer,N,0,9,NSW,67,60+
+Carroll,Schlagman,Female,61,Health,Affluent Customer,N,0,13,NSW,71,60+
+Frans,Idale,Male,1,Manufacturing,Mass Customer,N,0,10,QLD,53,50-59
+Amara,Clow,Female,47,Financial Services,Mass Customer,N,1,13,VIC,56,50-59
+Anthony,Morison,Male,7,Health,Mass Customer,N,0,12,NSW,84,60+
+Cherye,Stanfield,Female,0,Manufacturing,Affluent Customer,N,0,13,NSW,41,40-49
+Ansell,Tolhurst,Male,77,Manufacturing,Affluent Customer,N,0,22,NSW,73,60+
+Erminie,Rabidge,Female,64,Manufacturing,High Net Worth,N,0,17,NSW,40,40-49
+Rosene,Beckey,Female,25,Health,Mass Customer,N,1,14,NSW,48,40-49
+Darlleen,Shalcras,Female,77,Health,Mass Customer,N,0,11,NSW,42,40-49
+Bryon,Goundry,Male,79,Manufacturing,Mass Customer,N,0,21,QLD,71,60+
+Sherwin,Minocchi,Male,71,Unknown,Mass Customer,N,1,11,NSW,75,60+
+Luci,Dyter,Female,12,Manufacturing,High Net Worth,N,0,20,VIC,70,60+
+Sloan,Pudney,Male,83,Financial Services,Affluent Customer,N,0,16,QLD,58,50-59
+Otes,Elegood,Male,67,Financial Services,High Net Worth,N,0,21,NSW,82,60+
+Davie,Blay,Male,94,Financial Services,Mass Customer,N,0,8,NSW,37,30-39
+Dorolice,Osmon,Female,46,Financial Services,Affluent Customer,N,0,15,VIC,61,60+
+Meade,McReedy,Female,94,Financial Services,Affluent Customer,N,1,9,NSW,54,50-59
+Rikki,Chaffey,Male,69,Manufacturing,Mass Customer,N,0,20,QLD,77,60+
+Adria,Van den Velde,Female,39,Manufacturing,Affluent Customer,N,1,9,NSW,44,40-49
+Maddalena,Hencke,Female,61,Unknown,High Net Worth,N,0,22,QLD,70,60+
+Rand,Winchcum,Male,34,Unknown,Affluent Customer,N,0,3,NSW,22,<30
+Rowen,Sollas,Male,38,Health,Mass Customer,N,0,5,QLD,62,60+
+Boothe,Hayselden,Male,42,Health,Mass Customer,N,1,17,NSW,82,60+
+Noak,Sleany,Male,1,Financial Services,Affluent Customer,N,0,17,VIC,57,50-59
+Callean,Wass,Male,65,Financial Services,Affluent Customer,N,0,14,VIC,34,30-39
+Keelby,Sudlow,Male,96,Manufacturing,High Net Worth,N,0,12,VIC,34,30-39
+Rodrique,Vernon,Male,70,Manufacturing,Affluent Customer,N,0,17,VIC,44,40-49
+Brod,Attrey,Male,46,Unknown,Mass Customer,N,1,14,NSW,56,50-59
+Manny,Mandy,Male,36,Argiculture,Mass Customer,N,0,16,QLD,45,40-49
+Becky,Lassen,Female,11,Financial Services,Mass Customer,N,1,7,NSW,49,40-49
+Tessa,Heakey,Female,43,Financial Services,Mass Customer,N,0,9,VIC,51,50-59
+Herbert,Henryson,Male,21,Unknown,Mass Customer,N,0,4,NSW,27,<30
+Cristie,Bence,Female,49,Unknown,High Net Worth,N,0,9,QLD,22,<30
+Renate,Whyte,Female,60,Health,High Net Worth,N,1,15,NSW,59,50-59
+Toma,Woolforde,Female,67,Financial Services,Mass Customer,N,1,5,NSW,30,30-39
+Dorie,Dunleavy,Female,24,Health,Affluent Customer,N,0,12,VIC,60,60+
+Ellie,Toope,Female,29,Property,High Net Worth,N,1,4,NSW,49,40-49
+Leonora,Swetenham,Female,66,IT,Mass Customer,N,1,10,NSW,55,50-59
+Teodor,Mullinder,Male,56,Manufacturing,High Net Worth,N,0,11,VIC,60,60+
+Jared,Fendlow,Male,79,Financial Services,Mass Customer,N,0,15,QLD,59,50-59
+Andy,Deeming,Male,79,Manufacturing,Affluent Customer,N,1,7,QLD,43,40-49
+Monty,Thomazin,Male,7,Unknown,Mass Customer,N,1,13,VIC,71,60+
+Briano,Janowski,Male,66,Unknown,Mass Customer,N,0,7,NSW,28,<30
+Logan,Colomb,Male,74,Unknown,Mass Customer,N,1,19,NSW,74,60+
+Nichols,Devinn,Male,47,Unknown,Affluent Customer,N,0,11,NSW,43,40-49
+Catha,Davitt,Female,79,Property,High Net Worth,N,1,6,NSW,64,60+
+Melosa,McOwan,Female,25,Financial Services,Mass Customer,N,0,12,NSW,21,<30
+Maris,Leete,Female,21,Retail,Mass Customer,N,0,7,QLD,49,40-49
+Wilburt,Padden,Male,22,Manufacturing,Mass Customer,N,0,3,NSW,28,<30
+Rosabelle,Godsmark,Female,60,Unknown,Mass Customer,N,1,3,QLD,27,<30
+Guilbert,Bearns,Male,42,Financial Services,Mass Customer,N,1,5,VIC,40,40-49
+Meridith,Urwin,Female,62,Health,High Net Worth,N,1,10,NSW,25,<30
+Gerta,Porrett,Female,46,Health,High Net Worth,N,0,12,VIC,63,60+
+Karrah,Howell,Female,63,Manufacturing,Mass Customer,N,0,17,NSW,66,60+
+Alick,Baise,Male,62,Health,Mass Customer,N,1,1,NSW,24,<30
+Casandra,Betteridge,Female,29,Financial Services,Affluent Customer,N,1,9,VIC,80,60+
+Maurine,Clee,Female,45,Property,High Net Worth,N,1,5,NSW,42,40-49
+Darwin,Bumpas,Male,24,Health,Affluent Customer,N,1,18,VIC,44,40-49
+Hayes,Daveren,Male,32,Manufacturing,Affluent Customer,N,1,11,QLD,69,60+
+Piper,Issacov,Female,67,Health,Affluent Customer,N,1,22,NSW,83,60+
+Markus,Pendrey,Male,88,Health,Affluent Customer,N,1,12,NSW,63,60+
+Sile,Zappel,Female,47,IT,High Net Worth,N,0,15,QLD,64,60+
+Craggy,Happel,Male,37,Manufacturing,High Net Worth,N,1,8,VIC,43,40-49
+Egor,Mariette,Male,42,Financial Services,Affluent Customer,N,0,3,VIC,42,40-49
+Reinald,Bembrigg,Male,54,Financial Services,Affluent Customer,N,0,10,NSW,69,60+
+Kissie,Line,Female,2,Manufacturing,Affluent Customer,N,1,7,NSW,22,<30
+Quentin,Gerleit,Female,32,Manufacturing,Mass Customer,N,0,4,VIC,32,30-39
+Karoly,Burgoine,Male,57,Health,High Net Worth,N,1,21,VIC,75,60+
+Clarine,Piecha,Female,99,Health,High Net Worth,N,0,14,QLD,58,50-59
+Mycah,Beaston,Male,11,Unknown,High Net Worth,N,1,12,NSW,61,60+
+Clemmie,Bartoszewicz,Female,87,Financial Services,Mass Customer,N,0,8,VIC,64,60+
+Randall,Mason,Male,95,Health,Mass Customer,N,1,12,NSW,48,40-49
+Donica,Humby,Female,47,Financial Services,Mass Customer,N,0,4,NSW,55,50-59
+Lotty,Loach,Female,76,Health,High Net Worth,N,1,7,NSW,61,60+
+Marie-jeanne,Breawood,Female,37,Health,High Net Worth,N,0,8,NSW,69,60+
+Babara,Sissel,Female,50,IT,Mass Customer,N,1,21,VIC,48,40-49
+Rodolphe,Glenton,Male,88,Financial Services,Affluent Customer,N,0,11,VIC,48,40-49
+Thorvald,Duckerin,Male,58,Manufacturing,Affluent Customer,N,1,1,VIC,27,<30
+Paulina,Iannuzzelli,Female,57,Manufacturing,Mass Customer,N,0,19,NSW,66,60+
+Ricki,Padefield,Male,43,Manufacturing,Affluent Customer,N,1,13,QLD,74,60+
+Lizette,McKeaveney,Female,30,Health,High Net Worth,N,1,13,NSW,28,<30
+Muffin,Bhar,Male,44,Unknown,Affluent Customer,N,0,19,NSW,56,50-59
+Jeno,Strafford,Male,67,Financial Services,High Net Worth,N,0,7,QLD,81,60+
+Brigg,Himsworth,Male,63,Telecommunications,Mass Customer,N,1,9,QLD,49,40-49
+Judi,Cazereau,Female,22,Unknown,Affluent Customer,N,1,13,VIC,25,<30
+Raleigh,Pont,Male,48,Entertainment,Mass Customer,N,0,14,VIC,58,50-59
+Zachariah,Meininking,Male,40,Financial Services,Affluent Customer,N,1,20,NSW,84,60+
+Lesley,Garey,Male,52,Telecommunications,Mass Customer,N,0,11,NSW,28,<30
+Adriena,Giffin,Female,27,Argiculture,Affluent Customer,N,1,5,NSW,65,60+
+Carr,Hopkynson,Male,64,Manufacturing,Affluent Customer,N,0,16,NSW,51,50-59
+Shay,Briand,Male,57,IT,Mass Customer,N,1,9,VIC,66,60+
+Karney,Burstow,Male,51,Property,Mass Customer,N,1,6,NSW,50,50-59
+Latrena,Yetts,Female,11,Manufacturing,High Net Worth,N,1,15,NSW,23,<30
+Jesse,Alflat,Male,31,Unknown,High Net Worth,N,0,5,NSW,38,30-39
+Kelcie,Kingaby,Female,54,IT,Mass Customer,N,1,6,QLD,22,<30
+Fabio,Commuzzo,Male,5,Manufacturing,Mass Customer,N,0,18,VIC,61,60+
+Heall,Andrioli,Male,46,IT,Affluent Customer,N,1,7,QLD,81,60+
+Rickert,Brasted,Male,47,Health,Mass Customer,N,0,10,NSW,63,60+
+Hedwig,Jayme,Female,38,Property,Affluent Customer,N,0,11,NSW,70,60+
+Penrod,Tomasicchio,Male,5,Health,High Net Worth,N,0,19,NSW,54,50-59
+Pancho,Edis,Male,1,Unknown,Mass Customer,N,0,13,VIC,52,50-59
+Andriana,Gosnoll,Female,53,Manufacturing,Mass Customer,N,0,8,NSW,58,50-59
+Nilson,Wiggam,Male,48,Financial Services,Mass Customer,N,0,9,VIC,26,<30
+Denny,Spleving,Female,84,Manufacturing,Affluent Customer,N,1,5,NSW,49,40-49
+Olia,O' Mullan,Female,77,Health,Mass Customer,N,0,8,NSW,49,40-49
+Conway,Juarez,Male,27,Unknown,Affluent Customer,N,0,17,QLD,55,50-59
+Dru,Crellim,Female,57,Unknown,Mass Customer,N,0,12,VIC,59,50-59
+Shaw,MacEvilly,Male,10,Health,Affluent Customer,N,0,16,NSW,22,<30
+Brook,Eade,Female,65,Retail,Mass Customer,N,1,8,NSW,65,60+
+Aleece,Feige,Female,49,Manufacturing,Mass Customer,N,0,18,NSW,47,40-49
+Dolorita,Strutton,Female,7,Manufacturing,Affluent Customer,N,0,17,VIC,31,30-39
+Harman,A'field,Male,39,Manufacturing,Affluent Customer,N,1,6,QLD,62,60+
+Hildegarde,Bamb,Female,16,Unknown,High Net Worth,N,1,10,VIC,61,60+
+Launce,Gale,Male,86,Unknown,Mass Customer,N,0,21,NSW,83,60+
+Ilise,Clissold,Female,58,Entertainment,High Net Worth,N,0,9,NSW,35,30-39
+Julita,Prene,Female,14,Manufacturing,High Net Worth,N,1,13,QLD,43,40-49
+Ashlen,Willbond,Female,64,Health,High Net Worth,N,0,16,VIC,38,30-39
+Keely,Bointon,Female,71,Telecommunications,High Net Worth,N,0,3,QLD,34,30-39
+Poul,Gaskin,Male,78,Telecommunications,High Net Worth,N,0,17,NSW,72,60+
+Sheilakathryn,Huff,Female,45,Unknown,High Net Worth,N,1,14,NSW,64,60+
+Rubia,Evetts,Female,59,Health,Mass Customer,N,0,16,NSW,32,30-39
+Francklin,Cross,Male,51,Property,Mass Customer,N,1,3,NSW,41,40-49
+Wilone,Champley,Female,22,Manufacturing,High Net Worth,N,0,17,NSW,39,30-39
+Lezlie,Clemits,Female,2,Financial Services,Mass Customer,N,1,15,NSW,49,40-49
+Kathe,Oller,Female,47,Manufacturing,Mass Customer,N,1,5,VIC,63,60+
+Dulce,Bradwell,Female,61,Manufacturing,Mass Customer,N,0,20,QLD,65,60+
+Felice,Dechelette,Male,75,Entertainment,High Net Worth,N,0,3,QLD,24,<30
+Joane,Caldes,Female,84,Financial Services,High Net Worth,N,1,13,NSW,44,40-49
+Diane,Furman,Female,67,Manufacturing,Affluent Customer,N,1,13,VIC,29,<30
+Ogdan,Blenkinship,Male,65,Health,Mass Customer,N,1,21,VIC,71,60+
+Kizzee,Agget,Female,98,Manufacturing,Affluent Customer,N,0,8,NSW,46,40-49
+Stephi,Highton,Female,30,Telecommunications,Mass Customer,N,1,12,NSW,35,30-39
+Martino,Scoles,Male,18,Financial Services,Mass Customer,N,0,14,VIC,47,40-49
+Morgen,Newport,Female,5,Manufacturing,Mass Customer,N,0,6,VIC,62,60+
+Eugenie,Brinson,Female,79,Entertainment,Mass Customer,N,1,17,VIC,59,50-59
+Reinold,Natt,Male,16,Financial Services,High Net Worth,N,1,8,VIC,58,50-59
+Jo,Roberts,Female,41,Financial Services,High Net Worth,N,1,11,NSW,77,60+
+Jacklin,Duchant,Female,77,Argiculture,Mass Customer,N,0,17,QLD,82,60+
+Colas,Gabbitas,Male,98,Retail,High Net Worth,N,0,20,NSW,76,60+
+Claudetta,Ricciardiello,Female,61,Financial Services,Mass Customer,N,1,21,VIC,48,40-49
+Angele,Cadore,Female,5,Unknown,Mass Customer,N,1,7,QLD,68,60+
+Cicily,Hast,Female,63,Health,Affluent Customer,N,1,8,NSW,51,50-59
+Harland,Messenger,Male,90,Retail,Mass Customer,N,0,8,VIC,48,40-49
+Sim,Constantinou,Male,91,Property,Mass Customer,N,0,5,NSW,30,30-39
+Shanon,Rolfe,Female,63,Retail,High Net Worth,N,0,8,NSW,81,60+
+Chryste,Oddboy,Female,44,Manufacturing,High Net Worth,N,1,4,NSW,34,30-39
+Edin,Patinkin,Female,35,Health,Mass Customer,N,0,17,VIC,30,30-39
+Nolly,Ivanchikov,Male,13,Manufacturing,High Net Worth,N,1,11,NSW,28,<30
+Michele,Pammenter,Male,23,Health,High Net Worth,N,0,2,VIC,39,30-39
+Liane,Abelevitz,Female,26,Unknown,Mass Customer,N,0,3,VIC,46,40-49
+Philbert,Bangs,Male,67,IT,Mass Customer,N,1,6,QLD,56,50-59
+Noami,Cokly,Female,74,Manufacturing,Mass Customer,N,1,15,NSW,60,60+
+Lyndell,Jereatt,Female,14,Unknown,High Net Worth,N,0,13,NSW,28,<30
+Maximilien,Bourget,Male,12,Financial Services,Mass Customer,N,1,6,VIC,53,50-59
+Benedikta,Naptin,Female,59,Retail,Mass Customer,N,1,15,NSW,27,<30
+Rhodie,Gaskall,Female,83,Unknown,Mass Customer,N,1,9,QLD,58,50-59
+Afton,Andrassy,Female,78,Retail,Mass Customer,N,0,7,VIC,24,<30
+Blondell,Dibdall,Female,62,Unknown,Mass Customer,N,0,4,VIC,55,50-59
+Sonia,Dunstall,Female,0,Financial Services,Mass Customer,N,0,10,NSW,47,40-49
+Benedikt,Adamou,Male,15,Health,Mass Customer,N,0,11,VIC,35,30-39
+Don,Spratling,Male,82,Property,Affluent Customer,N,1,7,NSW,53,50-59
+Moll,Ogilby,Female,25,Manufacturing,Mass Customer,N,1,13,QLD,42,40-49
+Jammie,Seldner,Female,42,Health,Mass Customer,N,1,15,NSW,47,40-49
+Inglis,Pickaver,Male,33,Telecommunications,Affluent Customer,N,0,1,NSW,28,<30
+Clarabelle,Broschek,Female,6,Manufacturing,Mass Customer,N,0,18,QLD,59,50-59
+Tillie,Bisseker,Female,74,Manufacturing,High Net Worth,N,0,14,NSW,62,60+
+Irving,Babcock,Male,60,Health,High Net Worth,N,1,15,NSW,36,30-39
+Evered,Gludor,Male,3,Manufacturing,High Net Worth,N,1,15,NSW,71,60+
+Mavra,Finan,Female,30,Property,Affluent Customer,N,1,4,NSW,55,50-59
+Frieda,Tavinor,Female,43,Unknown,Affluent Customer,N,0,10,VIC,23,<30
+Ellwood,Budden,Male,82,Health,Mass Customer,N,1,11,NSW,24,<30
+Alex,Patshull,Female,37,Retail,Mass Customer,N,1,13,QLD,56,50-59
+Aundrea,Outridge,Female,77,Financial Services,Affluent Customer,N,1,10,VIC,21,<30
+Amby,Bodega,Male,63,Unknown,Affluent Customer,N,1,17,VIC,54,50-59
+Esme,Pilipets,Male,15,Health,Mass Customer,N,1,5,VIC,55,50-59
+Beverly,Domnick,Female,56,IT,Mass Customer,N,0,9,NSW,84,60+
+Artemis,Swanson,Male,77,Argiculture,Mass Customer,N,1,13,VIC,45,40-49
+Daryle,Marginson,Male,93,Argiculture,Mass Customer,N,1,9,NSW,36,30-39
+Tyne,Anshell,Female,71,Unknown,Mass Customer,N,1,3,NSW,30,30-39
+Leona,Shorrock,Female,83,Financial Services,Affluent Customer,N,1,22,QLD,71,60+
+Bertrando,Carass,Male,45,Property,Mass Customer,N,0,8,NSW,66,60+
+Augusta,Munns,Female,5,Unknown,Mass Customer,N,0,21,NSW,71,60+
+Lauralee,Fudge,Female,83,Health,Mass Customer,N,0,15,VIC,35,30-39
+Consalve,Ballay,Male,41,IT,Mass Customer,N,1,7,NSW,63,60+
+Lolly,Prewer,Female,44,Health,Mass Customer,N,0,15,NSW,25,<30
+Vyky,Pegg,Female,64,Manufacturing,Mass Customer,N,1,11,NSW,79,60+
+Kellen,Pawelski,Female,83,Manufacturing,High Net Worth,N,1,11,NSW,77,60+
+Jermaine,Bagshawe,Female,60,Property,Mass Customer,N,1,9,QLD,68,60+
+Bryan,Jachtym,Male,59,Manufacturing,Mass Customer,N,1,15,VIC,48,40-49
+Renie,Laundon,Female,32,Entertainment,Mass Customer,N,1,8,QLD,49,40-49
+Weidar,Etheridge,Male,38,Financial Services,Mass Customer,N,1,6,NSW,63,60+
+Datha,Fishburn,Female,15,Retail,Mass Customer,N,0,3,VIC,32,30-39
+Ferdinand,Romanetti,Male,60,Financial Services,Affluent Customer,N,0,9,NSW,63,60+
+Burk,Wortley,Male,22,Health,Mass Customer,N,0,6,NSW,21,<30
+Melloney,Temby,Female,17,Financial Services,Affluent Customer,N,1,15,QLD,68,60+
+Dickie,Cubbini,Male,30,Financial Services,Mass Customer,N,1,19,QLD,70,60+
+Sylas,Duffill,Male,56,Property,Mass Customer,N,1,14,NSW,67,60+
